@@ -1,0 +1,290 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Facultate An III/Semestrul 2/Circuite logice programabile/Laborator 4/Laborator 4/lab/sim
+vclk_divider
+Z0 !s110 1717520618
+!i10b 1
+!s100 DQzOUh1`F]Z9MOdE=z[Ag0
+IoQkQIBCa6FRlIKNlBjUPm0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Desktop/Proiect CLP/sim
+w1717241745
+8D:/Desktop/Proiect CLP/hdl/clk_divider.v
+FD:/Desktop/Proiect CLP/hdl/clk_divider.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1717520618.000000
+!s107 D:/Desktop/Proiect CLP/hdl/clk_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/clk_divider.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdecoder
+R0
+!i10b 1
+!s100 W@Kz4a]7a]U_E9D6N_bGo1
+Ih^We=fz<XdNf;Y[@jB3eI0
+R1
+R2
+w1717517845
+8D:/Desktop/Proiect CLP/hdl/decoder.v
+FD:/Desktop/Proiect CLP/hdl/decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/decoder.v|
+!i113 1
+R5
+R6
+vEST
+R0
+!i10b 1
+!s100 czRa@j:kWdOc4fYo?X0jn2
+Ig3eETA`3`6B`;=JijEMNP3
+R1
+R2
+w1717174085
+8D:/Desktop/Proiect CLP/hdl/EST.v
+FD:/Desktop/Proiect CLP/hdl/EST.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/EST.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/EST.v|
+!i113 1
+R5
+R6
+n@e@s@t
+vgen_clk
+R0
+!i10b 1
+!s100 JnK`]FMfG8hRe_`[MGVl00
+IjACfIYmdJ]12fXzi7P_DD2
+R1
+R2
+w1717520582
+8D:/Desktop/Proiect CLP/hdl/gen_clk.v
+FD:/Desktop/Proiect CLP/hdl/gen_clk.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/gen_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/gen_clk.v|
+!i113 1
+R5
+R6
+vgen_clk_rst
+!s110 1713371146
+!i10b 1
+!s100 OkN5@^NQdLLPDhaCAim6L3
+ITF3Woi_^TGa3AJ3l1g@P:0
+R1
+R2
+w1713371127
+8D:/Desktop/Proiect CLP/hdl/gen_clk_rst.v
+FD:/Desktop/Proiect CLP/hdl/gen_clk_rst.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1713371146.000000
+!s107 D:/Desktop/Proiect CLP/hdl/gen_clk_rst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/gen_clk_rst.v|
+!i113 1
+R5
+R6
+vNORD
+R0
+!i10b 1
+!s100 GRRCGzEHK@PYXOeiMbi<z0
+IA025IQ=kb:Bk[Wk8Wc`zL3
+R1
+R2
+w1717165227
+8D:/Desktop/Proiect CLP/hdl/NORD.v
+FD:/Desktop/Proiect CLP/hdl/NORD.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/NORD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/NORD.v|
+!i113 1
+R5
+R6
+n@n@o@r@d
+vPIETONI
+R0
+!i10b 1
+!s100 lER<cTEWWQhg73?11OIQD1
+I[<hc6Rk7niMU66];WaTQC3
+R1
+R2
+w1717242235
+8D:/Desktop/Proiect CLP/hdl/PIETONI.v
+FD:/Desktop/Proiect CLP/hdl/PIETONI.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/PIETONI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/PIETONI.v|
+!i113 1
+R5
+R6
+n@p@i@e@t@o@n@i
+vready
+R0
+!i10b 1
+!s100 [_Q?BJ<iGEab82oSmF:4B1
+Ia<FUdgDDBQJcnY@:5nOdQ3
+R1
+R2
+w1713428277
+8D:/Desktop/Proiect CLP/hdl/ready.v
+FD:/Desktop/Proiect CLP/hdl/ready.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/ready.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/ready.v|
+!i113 1
+R5
+R6
+vSegDriver
+R0
+!i10b 1
+!s100 ?a<YlJ5<]mkAM;iblJ4392
+IVLTFJhH8gbeX40n1hRlzH2
+R1
+R2
+w1717229785
+8D:/Desktop/Proiect CLP/hdl/SegDriver.v
+FD:/Desktop/Proiect CLP/hdl/SegDriver.v
+L0 23
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/SegDriver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/SegDriver.v|
+!i113 1
+R5
+R6
+n@seg@driver
+vSUD
+R0
+!i10b 1
+!s100 lafOP?SL9V4k@C]6:WQ6J1
+I[V[9=37nTQmHK@TG4NAOK1
+R1
+R2
+w1717241155
+8D:/Desktop/Proiect CLP/hdl/SUD.v
+FD:/Desktop/Proiect CLP/hdl/SUD.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/SUD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/SUD.v|
+!i113 1
+R5
+R6
+n@s@u@d
+vtestbench
+R0
+!i10b 1
+!s100 Dh0]PFNAMZ?5j7kiATQRT1
+IlWbmWa9?B;:bP^]WBTUSB0
+R1
+R2
+w1717520597
+8D:/Desktop/Proiect CLP/testbench/testbench.v
+FD:/Desktop/Proiect CLP/testbench/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/testbench/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/testbench/testbench.v|
+!i113 1
+R5
+R6
+vTrafficLight
+R0
+!i10b 1
+!s100 Xik2aCU34Q;=N]S[n=2[Y3
+IJ>zgl@HJ=4ohjgiikk@>o1
+R1
+R2
+w1717242453
+8D:/Desktop/Proiect CLP/hdl/TrafficLight.v
+FD:/Desktop/Proiect CLP/hdl/TrafficLight.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/TrafficLight.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/TrafficLight.v|
+!i113 1
+R5
+R6
+n@traffic@light
+vVEST
+R0
+!i10b 1
+!s100 KXFbhU?hg4b=>W9=nOX_f0
+I@Pbgo43_AE?^6__f`81ii1
+R1
+R2
+w1717165223
+8D:/Desktop/Proiect CLP/hdl/VEST.v
+FD:/Desktop/Proiect CLP/hdl/VEST.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Proiect CLP/hdl/VEST.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Proiect CLP/hdl/VEST.v|
+!i113 1
+R5
+R6
+n@v@e@s@t

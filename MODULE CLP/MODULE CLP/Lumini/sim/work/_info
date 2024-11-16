@@ -1,0 +1,204 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Desktop/MODULE CLP/Selectie Display/sim
+vclk_divider
+Z0 !s110 1717577226
+!i10b 1
+!s100 DQzOUh1`F]Z9MOdE=z[Ag0
+I<:Dl:He8XUZPdF;oC94m]2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Desktop/MODULE CLP/Lumini/sim
+w1717241745
+8D:/Desktop/MODULE CLP/Lumini/clk_divider.v
+FD:/Desktop/MODULE CLP/Lumini/clk_divider.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1717577226.000000
+!s107 D:/Desktop/MODULE CLP/Lumini/clk_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/clk_divider.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vEST
+R0
+!i10b 1
+!s100 czRa@j:kWdOc4fYo?X0jn2
+In>>M3LMaj9cSdC:AYkf]C1
+R1
+R2
+w1717174085
+8D:/Desktop/MODULE CLP/Lumini/EST.v
+FD:/Desktop/MODULE CLP/Lumini/EST.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/EST.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/EST.v|
+!i113 1
+R5
+R6
+n@e@s@t
+vgen_clk
+R0
+!i10b 1
+!s100 JnK`]FMfG8hRe_`[MGVl00
+IjbODZ;hKJ9Y3kmHKg=Z;S1
+R1
+R2
+w1717520582
+8D:/Desktop/MODULE CLP/Lumini/gen_clk.v
+FD:/Desktop/MODULE CLP/Lumini/gen_clk.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/gen_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/gen_clk.v|
+!i113 1
+R5
+R6
+vgen_stimuli
+R0
+!i10b 1
+!s100 ]fSN4ac4;79;KJ@Yi`48B3
+IY1c^9T[FZX=D3d2LjCkkN1
+R1
+R2
+w1717577222
+8D:/Desktop/MODULE CLP/Lumini/gen_stimuli.v
+FD:/Desktop/MODULE CLP/Lumini/gen_stimuli.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/gen_stimuli.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/gen_stimuli.v|
+!i113 1
+R5
+R6
+vNORD
+R0
+!i10b 1
+!s100 GRRCGzEHK@PYXOeiMbi<z0
+I^zVbNhiOHRl4>5h7LKFWk1
+R1
+R2
+w1717165227
+8D:/Desktop/MODULE CLP/Lumini/NORD.v
+FD:/Desktop/MODULE CLP/Lumini/NORD.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/NORD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/NORD.v|
+!i113 1
+R5
+R6
+n@n@o@r@d
+vPIETONI
+R0
+!i10b 1
+!s100 lER<cTEWWQhg73?11OIQD1
+IiY80LJcm0Fo5Bf07fHJgW1
+R1
+R2
+w1717242235
+8D:/Desktop/MODULE CLP/Lumini/PIETONI.v
+FD:/Desktop/MODULE CLP/Lumini/PIETONI.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/PIETONI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/PIETONI.v|
+!i113 1
+R5
+R6
+n@p@i@e@t@o@n@i
+vSUD
+R0
+!i10b 1
+!s100 lafOP?SL9V4k@C]6:WQ6J1
+I79L>M<8BN`H?LfD[L3P7f2
+R1
+R2
+w1717241155
+8D:/Desktop/MODULE CLP/Lumini/SUD.v
+FD:/Desktop/MODULE CLP/Lumini/SUD.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/SUD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/SUD.v|
+!i113 1
+R5
+R6
+n@s@u@d
+vtestbench
+R0
+!i10b 1
+!s100 Z54HJB=bd5oUkJ];S`OIC3
+Io<b>MHBk7CSdHJHkid8D^3
+R1
+R2
+w1717577045
+8D:/Desktop/MODULE CLP/Lumini/testbench.v
+FD:/Desktop/MODULE CLP/Lumini/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/testbench.v|
+!i113 1
+R5
+R6
+vVEST
+R0
+!i10b 1
+!s100 KXFbhU?hg4b=>W9=nOX_f0
+IDg;D_H<NnXiN<N40Fn_U_3
+R1
+R2
+w1717165223
+8D:/Desktop/MODULE CLP/Lumini/VEST.v
+FD:/Desktop/MODULE CLP/Lumini/VEST.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Lumini/VEST.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Lumini/VEST.v|
+!i113 1
+R5
+R6
+n@v@e@s@t

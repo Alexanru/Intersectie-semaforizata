@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vbistabil1
+Z0 !s110 1717572170
+!i10b 1
+!s100 lj<C8LF[l6J5]E@2m@]WR1
+ILd[>oZl0b4?BDBeNFDE>K3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Desktop/Debouncer/sim
+w1717569198
+8D:/Desktop/Debouncer/bistabil1.v
+FD:/Desktop/Debouncer/bistabil1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1717572170.000000
+!s107 D:/Desktop/Debouncer/bistabil1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Debouncer/bistabil1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter
+R0
+!i10b 1
+!s100 Rf>O@[oF5^U:f4X^hHddH1
+I:hQk=5WcNL]k`h`^]RYYS1
+R1
+R2
+w1717569318
+8D:/Desktop/Debouncer/counter.v
+FD:/Desktop/Debouncer/counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Debouncer/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Debouncer/counter.v|
+!i113 1
+R5
+R6
+vgen_clk
+R0
+!i10b 1
+!s100 C9oUc>Mo@[GHK;bK>2_F53
+Ij]]e5oP^GBLg9j`02]ORG3
+R1
+R2
+w1717156201
+8D:/Desktop/Debouncer/gen_clk.v
+FD:/Desktop/Debouncer/gen_clk.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Debouncer/gen_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Debouncer/gen_clk.v|
+!i113 1
+R5
+R6
+vgen_input
+R0
+!i10b 1
+!s100 mz0K>LgTLJMl>9[OZWfmk0
+I^HBEnCbdRT<8G2E6?jYaf2
+R1
+R2
+w1717572167
+8D:/Desktop/Debouncer/gen_input.v
+FD:/Desktop/Debouncer/gen_input.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Debouncer/gen_input.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Debouncer/gen_input.v|
+!i113 1
+R5
+R6
+vtestbench
+R0
+!i10b 1
+!s100 =9C9l<<@3^FNlefQc7Mc<3
+I>dCUH60T8B;`N64TP<oje1
+R1
+R2
+w1717569405
+8D:/Desktop/Debouncer/testbench.v
+FD:/Desktop/Debouncer/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/Debouncer/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/Debouncer/testbench.v|
+!i113 1
+R5
+R6

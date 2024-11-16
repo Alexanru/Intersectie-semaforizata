@@ -1,0 +1,46 @@
+module testbench();
+
+wire clk;
+wire clk_div;
+wire ready;
+reg [2:0]button;
+wire [2:0] stare_semafor;
+wire service;
+wire reset;
+
+
+gen_clk GENERATROR_INST(
+    .clk(clk)
+);
+
+initial begin
+button = 0;
+
+@(posedge clk);
+button = 1;
+@(posedge clk);
+button = 0;
+
+end
+
+
+clk_divider DIVIDER_INST(
+    .clk(clk),
+    .clk_div(clk_div)
+);
+
+decoder DECODER_INST(
+    .clk(clk),
+    .ready(ready),
+    .button(button),
+    .stare_semafor(stare_semafor),
+    .service(service)
+);
+
+ready READY_INST(
+    .clk(clk),
+    .ready_s(ready),
+    .service_s(service)
+);
+
+endmodule;

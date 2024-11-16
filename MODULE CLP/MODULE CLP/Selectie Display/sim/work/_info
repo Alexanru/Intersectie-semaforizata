@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vgen_clk
+Z0 !s110 1717575215
+!i10b 1
+!s100 JnK`]FMfG8hRe_`[MGVl00
+InOL2f_W`3e^j?Vd7^:2Mo1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Desktop/MODULE CLP/Selectie Display/sim
+w1717520582
+8D:/Desktop/MODULE CLP/Selectie Display/gen_clk.v
+FD:/Desktop/MODULE CLP/Selectie Display/gen_clk.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1717575215.000000
+!s107 D:/Desktop/MODULE CLP/Selectie Display/gen_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Selectie Display/gen_clk.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vgen_stimuli
+R0
+!i10b 1
+!s100 <Ho4cWckUXm^aOP_KfP8o1
+Idn1O=M2`[?gVM2I3oZGMl3
+R1
+R2
+w1717575211
+8D:/Desktop/MODULE CLP/Selectie Display/gen_stimuli.v
+FD:/Desktop/MODULE CLP/Selectie Display/gen_stimuli.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Selectie Display/gen_stimuli.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Selectie Display/gen_stimuli.v|
+!i113 1
+R5
+R6
+vtestbench
+R0
+!i10b 1
+!s100 U1>adVV?ERz7;7^Yn`Ll=0
+IPiVc8LZdW4E?7DO3P2_XH3
+R1
+R2
+w1717575160
+8D:/Desktop/MODULE CLP/Selectie Display/testbench.v
+FD:/Desktop/MODULE CLP/Selectie Display/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Selectie Display/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Selectie Display/testbench.v|
+!i113 1
+R5
+R6
+vTrafficLight
+R0
+!i10b 1
+!s100 Xik2aCU34Q;=N]S[n=2[Y3
+IP2@f<OGn3ic>TW<m1YbE03
+R1
+R2
+w1717242453
+8D:/Desktop/MODULE CLP/Selectie Display/TrafficLight.v
+FD:/Desktop/MODULE CLP/Selectie Display/TrafficLight.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Desktop/MODULE CLP/Selectie Display/TrafficLight.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/MODULE CLP/Selectie Display/TrafficLight.v|
+!i113 1
+R5
+R6
+n@traffic@light
